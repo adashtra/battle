@@ -50,7 +50,7 @@ Challenge Progress:
 - [x] Viewing hit points
 - [x] Test Helpers
 - [x] Attacking Player 2
-- [ ] Extracting Logic to the Model
+- [x] Extracting Logic to the Model
 - [ ] Implementing Hit Points
 - [ ] Single Responsibility Principle, anyone?
 - [ ] Skinny Controllers
